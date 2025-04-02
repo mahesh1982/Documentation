@@ -1,3 +1,16 @@
+Supervised Learning
+  Applications
+    NLP
+    Image Classification
+    Speech Recognition
+Unsupervised Learning
+  Clustering
+  Dimensionality Reduction
+  Density Estimation
+  Applications:
+    Anomaly Detection
+    Data Compression
+    Feature Extraction
 Collect
 Chunk
 Embedding
