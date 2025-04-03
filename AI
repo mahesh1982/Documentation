@@ -11,8 +11,76 @@ Unsupervised Learning
     Anomaly Detection
     Data Compression
     Feature Extraction
+
+Pandas
+Numpy
+
+MatplotLib
+Seaborn
+
+FrameWorks:
+  TensorFlow
+  Keras
+  PyTorch
+  Scikit-Learn
+
+NLP:
+  Text Generation
+  Summarization
+  Translation
+  Sentiment Analysis
+
+Gen AI Stack:
+  OS: Unix / Linux
+  Storage Layer: SQL or Non SQL DB's
+  Vector DB capable of storing Embeddings
+  Web Server: Apche and Nginx
+  Development Environment: Python, Node.js/JavaScript, .Net, Java
+
 Collect
 Chunk
 Embedding
 Store
 Retrive
+
+Prompt Engineering (In Context Learning)
+  Zero Shot
+  Few Shot
+  Chain of thought prompting
+  Multi shot prompting
+
+Fine tuning
+Pre Traning
+RAG (Retrieval Augented Generation)
+
+
+Flask
+FastAPI
+Streamlit
+Chainlit
+
+OpenAI API
+
+Mongo DB
+  .txt, Markdown, PDFs, HTML
+
+LLM Capabilities:
+  Text Generation and Completion
+  Open endded dialogue and chat
+  Question and Answering
+  Classification
+  Sentiment analysis
+  Data Transformation and Extraction
+
+LLM Applications:
+  Chatbot
+  Content Generation
+  Suno - Text to Song
+  MidJourney - Text to Image
+  Runway - Text to Video
+
+SOTA (State Of The Art)
+
+
+
+  Recommendation System
