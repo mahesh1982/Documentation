@@ -37,11 +37,13 @@ Gen AI Stack:
   Web Server: Apche and Nginx
   Development Environment: Python, Node.js/JavaScript, .Net, Java
 
+
 Collect
 Chunk
 Embedding
 Store
 Retrive
+
 
 Prompt Engineering (In Context Learning)
   Zero Shot
@@ -53,13 +55,18 @@ Fine tuning
 Pre Traning
 RAG (Retrieval Augented Generation)
 
-
 Flask
 FastAPI
 Streamlit
 Chainlit
 
 OpenAI API
+
+Semantic Memeory (Semantic Search and Context Retrieval):
+  AI Vector Embeding Models
+  Vector Databases
+
+Embedding Models:
 
 Mongo DB
   .txt, Markdown, PDFs, HTML
@@ -82,5 +89,4 @@ LLM Applications:
 SOTA (State Of The Art)
 
 
-
-  Recommendation System
+Recommendation System
